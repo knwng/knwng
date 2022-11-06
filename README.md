@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI-based security analysis.
+- 🔭 I’m currently working on MLSys, especially focusing on model optimization, DL compiler and model serving.
 - 🌱 I’m a *pythonista*, and currently trying to become a gopher.
-- 🍸 I'm interested in making cocktail and scuba diving(just got my [Padi Advanced Open Water Diver](https://www.padi.com/courses/advanced-open-water?lang=en) certificate).
+- 🍸 I'm interested in making cocktail, swimming, free diving and scuba diving(just got my [Padi Advanced Open Water Diver](https://www.padi.com/courses/advanced-open-water?lang=en) certificate).
 - 🐱 I have two cats named [Ciri](https://witcher.fandom.com/wiki/Ciri) and [Lia](https://mzh.moegirl.org.cn/zh-hans/%E7%88%B1%E8%9C%9C%E8%8E%89%E9%9B%85).
 - 📫 Feel free to contact me: ken.qrose@gmail.com
 
